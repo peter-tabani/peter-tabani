@@ -26,16 +26,13 @@
 - 💻 Systems & software developer
 - 🚀 Full-stack across **Laravel, Next.js, Django, and Node.js**
 - 📱 I build for **web, mobile, and AI integrations**
-- 🧩 I turn ideas into clean, scalable products
 - 📫 Reach me at **peterfrankmain@gmail.com**
-- ⚡ Fun fact: **I love building things from scratch**
-
 ---
 
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/peter-frank-9b1a93392"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:peterfrankmain@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
