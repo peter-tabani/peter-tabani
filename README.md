@@ -1,16 +1,112 @@
-## Hi there 👋
-
 <!--
-**peter-tabani/peter-tabani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+============================================================
+  This README is pre-filled for: peter-tabani
+  Only thing left for you to edit:
+    - YOUR_NAME line below (I guessed "Peter Tabani" — change if wrong)
+    - the "About Me" bullets
+    - the Socials section (fill your real handles, or delete a line you don't use)
+  Everything else (username, stat cards, tech stack) is already done.
+  Delete this comment block when you're happy.
+============================================================
 -->
+
+<h1 align="center">Hi there, I'm Peter Frank Tabani 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/peter-tabani">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;PHP+%2F+Laravel+%2B+React+%2F+Next.js;Python+%2F+Django+%2B+Node.js;Always+building+something&font=Fira%20Code&center=true&width=480&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=peter-tabani&label=Profile%20views&color=58A6FF&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 I'm currently working as a system & software developer 
+- 🌱 I work across the stack — **Laravel, Next.js, Django, Node.js**
+- 👯 I'm open to collaborating on web development, mobile applications and ai integrations projects
+- 📫 Reach me at **peterfrankmain@gmail.com**
+- ⚡ Fun fact: **I love building things from scratch**
+
+---
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### Databases & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=peter-tabani&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter-tabani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=peter-tabani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=peter-tabani&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center"><i>⭐️ Have a lovely day!</i></p>
